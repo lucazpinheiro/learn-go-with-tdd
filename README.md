@@ -20,6 +20,15 @@ run tests with benchmarks
 go test -bench=. ./path/to/sub/package
 ```
 
+run tests and get coverage report
+```
+go test -cover ./path/to/sub/package
+
+# or
+
+go test -cover ./...
+```
+
 * `godoc`
 
 generate docs, access on: http://localhost:6060/pkg/
