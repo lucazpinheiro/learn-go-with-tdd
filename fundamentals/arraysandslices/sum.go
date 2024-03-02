@@ -1,4 +1,4 @@
-package arraysandslices
+package main
 
 func Sum(numbers []int) int {
 	var sum int

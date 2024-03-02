@@ -1,4 +1,4 @@
-package structsinterfaces
+package main
 
 import "testing"
 

@@ -1,4 +1,4 @@
-package maps
+package main
 
 /*
 A gotcha with maps is that they can be a nil value. A nil map behaves like an empty map
